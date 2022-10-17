@@ -1,4 +1,4 @@
-## Bem vindo, meu chamo é Raphael Lyra Perazzo!
+## Bem vindo, sou Raphael Lyra Perazzo!
 
 <p>Sou natural de Recife/Pe e atualmente moro em Mossoró/RN. </p>
 
