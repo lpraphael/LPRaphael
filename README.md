@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/LPRaphael"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LPRaphael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPRaphael&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpraphael&theme=github_dark"/>
+  img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lpraphael&theme=github_dark"/>
 </div>
 
 </br>
