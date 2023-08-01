@@ -1,58 +1,58 @@
-## Bem vindo, sou Raphael Lyra Perazzo!
+# Bem vindo, sou Raphael Lyra Perazzo!
+<p align="justify">
+Sou desenvolvedor Web na P4PRO, estudante de análise e desenvolvimento de Sistemas e atualmente estou concluindo o curso de Data Analytics do Google. 
+</p>
+<p>No meu tempo livre busco sempre aprender coisas novas e alguns dos meus hobbys são jogar videogame, assistir séries e viajar.</p>
 
-<p>Sou natural de Recife/Pe e atualmente moro em Mossoró/RN. </p>
 
-<p>Formado em Direito pela Universidade Potiguar, atualmente em transição de carreira estudando Desenvolvimento Web Full Stack na Trybe.</p>
+## Conecte-se comigo
 
-<p> Atualmente aprendendo Python.
+[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=0E76A8&color:FFF)](raphael.perazzo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lpraphael/)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/RaphaelPerazzo)
 
-</br>
+## Habilidades
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=Notion)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Sequelize](https://img.shields.io/badge/Sequelize-000?style=for-the-badge&logo=Sequelize)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=Jest)
+![Mochar](https://img.shields.io/badge/Mocha.js-000?style=for-the-badge&logo=Mocha)
+![Chai](https://img.shields.io/badge/Chai.js-000?style=for-the-badge&logo=Chai)
+![Sinon](https://img.shields.io/badge/Sinon.js-000?style=for-the-badge&logo=Sinon)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-000?style=for-the-badge&logo=google%20analytics)
+![Tableau](https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau)
 
-</br>
 
-<div align="center">
-  <a href="https://github.com/LPRaphael"/>
-  <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lpraphael&theme=github_dark"/>
-  <img align="right" alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpraphael&theme=github_dark"/>
-  <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lpraphael&theme=github_dark"/>
-</div>
+##
 
-</br>
+<div align=center>
 
-</br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lpraphael&&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lpraphael&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lpraphael&&theme=highcontrast&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-## Languages and Tools
-
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
-  <img align="center" alt="Typescript" height="40" width="50" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" title="TypeScript"/>
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/>
-  <img align="center" alt="Redux" height="40" width="50" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" title="Redux"/>
-  <img align="center" alt="Jest" height="40" width="50" src="https://profilinator.rishav.dev/skills-assets/jest.svg" title="Jest"/>
-  <img align="center" alt="Node.js" height="40" width="50" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" title="node.js"/>
-  <img align="center" alt="Express" height="40" width="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" title="express"/>
-  <img align="center" alt="Mocha" height="40" width="50" src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4" title="Mocha"/>
-  
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
-   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker"/>
-   <img align="center" alt="MySql" height="40" width="50" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" title="MySql"/>
-   <img align="center" alt="MongoDB" height="40" width="50" src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" title="mongoDB"/>
-   <img align="center" alt="Git" height="40" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git"/>
-</div>
-
-</br>
-
-</br>
-
-  ## Social Medias
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/lpraphael/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-</br>
-
-</br>
+##
+<div align="right">
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=lpraphael&&style=flat-square)
+
+
+
+
+
+
+
+
