@@ -6,8 +6,7 @@ Sou desenvolvedor Web na P4PRO, estudante de análise e desenvolvimento de Siste
 
 
 ## Conecte-se comigo
-
-[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=0E76A8&color:FFF)](raphael.perazzo@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=0E76A8&color:FFF)](mailto:raphael.perazzo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lpraphael/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/RaphaelPerazzo)
 
