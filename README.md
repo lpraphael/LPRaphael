@@ -1,6 +1,6 @@
 # Bem vindo, sou Raphael Lyra Perazzo!
 <p align="justify">
-Sou desenvolvedor Web na P4PRO, estudante de análise e desenvolvimento de Sistemas e atualmente estou concluindo o curso de Data Analytics do Google. 
+Sou Desenvolvedor Backend especializado em Node.js e tecnologias server-side, com experiência prática em Express, Sequelize e integração de bancos de dados relacionais e NoSQL, como SQL Server, MySQL e MongoDB. Apaixonado por programação e resolução de problemas complexos, trago uma abordagem estratégica para o desenvolvimento de soluções escaláveis e de alta performance, alinhadas às melhores práticas do setor. 
 </p>
 <p>No meu tempo livre busco sempre aprender coisas novas e alguns dos meus hobbys são jogar videogame, assistir séries e viajar.</p>
 
